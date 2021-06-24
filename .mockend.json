@@ -1,0 +1,11 @@
+{
+  "Post": {
+    "index": "number",
+    "id": "string",
+    "title": "string",
+    "value": "string",
+    "priority": "string",
+    "isActive": "boolean",
+    "date": "date"
+  }
+}
